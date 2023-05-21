@@ -8,12 +8,7 @@
   <h3 >Tools </h3>
     <img src="https://skillicons.dev/icons?i=docker,git,raspberrypi,firebase,stackoverflow,vscode,arduino,postman,figma,blender,remix" />
 </div>
-<br>
-<br>
-<div align="center"> 
-  <img height="40px" width="400px" src="https://www.codewars.com/users/mrVol1/badges/large" alt="Codewars badge" />
-</div> 
-<br>
+
 <h2 align="center">My projects</h2>
 
 - [NFT - маркетплейс](https://github.com/mrVol1/nft_marketplace) - on Flutter, Dart, Firebase, Docker.
