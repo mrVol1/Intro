@@ -1,7 +1,5 @@
 <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=2A2356&height=160&section=header&text=Hi%20there,%20I'm%20Ed%20👋&fontSize=30&fontColor=6ECBF5&animation=twinkling&fontAlignY=35"/>
 
-<h2 align="center"> Product Manager, Mobile Developer 👨‍💻</h2>
-
 <div align="center"> 
   <h3 >Main Stack </h3>
     <img src="https://skillicons.dev/icons?i=flutter,swift,postgres,solidity,dart,r" />
