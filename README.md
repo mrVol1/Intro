@@ -1,3 +1,7 @@
+<div align="center"> 
+  <h1> Hi, there, I'm Ed 👋 </h1>
+</div>
+
 <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=2A2356&height=180&section=header&text=Mobile%20Developer&fontSize=30&fontColor=6ECBF5&animation=twinkling&fontAlignY=35" />
 
 <div align="center"> 
