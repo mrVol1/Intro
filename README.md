@@ -14,5 +14,7 @@
 - [Game "Game of Thrones"](https://github.com/mrVol1/Game_of_thrones) - on Flutter, Dart, Firebase, Rest API. Project uses Module architecture.
 - [Калькулятор](https://github.com/mrVol1/Claculator) - on Swift, Storyboard, UiKit
 - [Счетчик чисел](https://github.com/mrVol1/Counter) - on Swift, Storyboard, UiKit
+- [Приложение погоды](https://github.com/mrVol1/Weather-Forecast) - on Flutter, Dart
+- [Приложение журнала New York Times](https://github.com/mrVol1/Ner_York_Times_App) - on Flutter, Dart
 
 <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=2A2356&height=120&section=footer" />
