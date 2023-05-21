@@ -1,8 +1,6 @@
-<div align="center"> 
-  <h1> Hi, there, I'm Ed 👋 </h1>
-</div>
+<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=2A2356&height=160&section=header&text=Hi%20there,%20I'm%20Ed%20👋&fontSize=30&fontColor=6ECBF5&animation=twinkling&fontAlignY=35"/>
 
-<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=2A2356&height=180&section=header&text=Mobile%20Developer&fontSize=30&fontColor=6ECBF5&animation=twinkling&fontAlignY=35" />
+<h2 align="center"> Product Manager, Mobile Developer 👨‍💻</h2>
 
 <div align="center"> 
   <h3 >Main Stack </h3>
