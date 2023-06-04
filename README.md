@@ -14,6 +14,7 @@
 - [Game "Game of Thrones"](https://github.com/mrVol1/Game_of_thrones) - on Flutter, Dart, Firebase, Rest API. Project uses Module architecture.
 - [Калькулятор](https://github.com/mrVol1/Claculator) - on Swift, Storyboard, UiKit
 - [Счетчик чисел](https://github.com/mrVol1/Counter) - on Swift, Storyboard, UiKit
+- [Приложение-квиз по угадыванию рейтинга фильма](https://github.com/mrVol1/MovieQuiz-ios) - on Swift, Storyboard, UiKit
 - [Приложение погоды](https://github.com/mrVol1/Weather-Forecast) - on Flutter, Dart
 - [Приложение журнала New York Times](https://github.com/mrVol1/Ner_York_Times_App) - on Flutter, Dart
 
