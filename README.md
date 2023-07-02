@@ -7,7 +7,12 @@
   <h3 >Tools </h3>
     <img src="https://skillicons.dev/icons?i=docker,git,raspberrypi,firebase,stackoverflow,vscode,arduino,postman,figma,blender,remix" />
 </div>
-
+<br>
+<br>
+<div align="center"> 
+  <src="https://leetcode.card.workers.dev/mrVol?theme=default&font=baloo&extension=null"/>
+</div> 
+<br>
 <h2 align="center">My projects</h2>
 
 - [NFT - маркетплейс](https://github.com/mrVol1/nft_marketplace) - on Flutter, Dart, Firebase, Docker.
