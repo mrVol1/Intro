@@ -10,7 +10,7 @@
 <br>
 <br>
 <div align="center"> 
-  <src="https://leetcode.card.workers.dev/mrVol?theme=default&font=baloo&extension=null"/>
+  <src="![Leetcode Stats](https://leetcode.card.workers.dev/mrVol?theme=default&font=baloo&extension=null)"/>
 </div> 
 <br>
 <h2 align="center">My projects</h2>
