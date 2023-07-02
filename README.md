@@ -10,7 +10,6 @@
 <br>
 <br>
 <div align="center"> 
-href="https://github.com/mrVol1/mrVol1-Stats-Card" target="_blank">
     <img title="mrVol1's LeetCode Stats" alt="mrVol1's LeetCode Stats" src="https://leetcode.card.workers.dev/mrVol?      theme=default&font=baloo&extension=null"/>
 </div> 
 <br>
